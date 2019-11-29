@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "TAPAAL"
 
-baseURL = "/www.tapaal.net/"
+baseURL = "https://tapaal.github.io/www.tapaal.net/"
 
 theme = "tapaal.net-old"
