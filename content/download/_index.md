@@ -22,7 +22,7 @@ Binarier for Windows/Linux/Mac OS X:
   * [TAPAAL 3.6.0 for Linux Download (64 bit)](/fileadmin/download/tapaal-3.6/tapaal-3.6.0-linux64.zip)
   * [TAPAAL 3.6.0 for Mac Download (64 bit)](/fileadmin/download/tapaal-3.6/tapaal-3.6.0-mac64.dmg)
   
-[**Older Releases**](download/older-releases/)
+[**Older Releases**](older-releases/)
 
 -----------------------
 
@@ -37,7 +37,7 @@ Please report any bugs that you might discover to our [bug tracker](https://bugs
 
 # Changelog
 
-See the [tapaal changelog](download/changelog).
+See the [tapaal changelog](changelog).
 
 # Installation Guide
 To install TAPAAL unpack the files for your platform and follow instructions in README.txt.
