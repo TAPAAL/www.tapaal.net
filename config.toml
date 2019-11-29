@@ -2,5 +2,6 @@ languageCode = "en-us"
 title = "TAPAAL"
 
 baseURL = "https://tapaal.github.io/www.tapaal.net/"
+canonifyURLs = "true"
 
 theme = "tapaal.net-old"

@@ -1,7 +1,11 @@
 ---
-title: TAPAAL won 4 gold medals at MCC'19
-date: 2019-04-08T16:53:00
+title: TAPAAL 3.5.1
+date: 2019-04-23T22:00:00+01:00
 draft: false
 ---
 
-We are very happy to announce that at this year Model Checking Contest, our tool TAPAAL won four gold medals in the categories: reachability, CTL model checking, deadlock analysis and computation of upper-bounds. The detailed results can be found here: https://mcc.lip6.fr/results.php
+We are glad to announce the release of TAPAAL 3.5.1.
+
+TAPAAL 3.5.1 is a release that fixes numerous bugs in the GUI
+introduced in the 3.5.0 release and it also fixes trace generation
+issue in the untimed verifypn engine.
