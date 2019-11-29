@@ -1,0 +1,21 @@
+
+
+		<div id="title"><img src="/images/tapaal.png" alt=""> &nbsp;TAPAAL </div>
+		<div id="menu">
+
+			<ul id="nav">
+		    	{{ range .Site.Menus.main }}
+   				<li><a href="{{ .URL }}" title="{{ .Title }}" onfocus="blurLink(this);">{{- .Name -}}</a></li>
+				{{ end }}
+			</ul>
+			<!--
+			<ul id="nav">
+				<li><a href="#" onfocus="blurLink(this);">Introduction</a></li>
+				<li><a href="#" onfocus="blurLink(this);">Features</a></li>
+				<li><a href="#" onfocus="blurLink(this);">Screenshots</a></li>
+				<li><a href="#" onfocus="blurLink(this);">Download</a></li>
+				<li><a href="#" onfocus="blurLink(this);">Documentation</a></li>
+				<li><a href="#" onfocus="blurLink(this);">About</a></li>
+			</ul>
+			-->
+		</div>

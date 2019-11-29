@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <article>
+    <h1>{{ .Title }}</h1>
+    <ul class="posts-list">
+      {{ range $index, $element := .Paginator.Pages }}
+        
+          <h2><a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <span class="posts-list-item-description">
+            {{ .PublishDate.Format "2006-01-02" }} - ({{ .ReadingTime }} min read)
+          </span>
+          {{ .Summary }}
+          {{ if .Truncated }}
+            ... <a class="posts-list-item-title" href="{{ .Permalink }}">(Read more)</a>
+          {{end}}
+        <hr />
+      {{ end }}
+      {{ partial "pagination.html" $ }}
+    </ul>
+   
+  </article>
+{{ end }}

@@ -1,0 +1,38 @@
+
+        <div class="box">
+            <h1>News</h1>
+            <div class="news-latest-container">
+
+                {{ range $section := (where $.Site.RegularPages "Section" "news") | first 4}}
+                    <div class="news-latest-item">
+                        <h2>{{ .PublishDate.Format "2006-01-02" }} - <a href="{{ .Permalink }}" title="">{{.Title}}</a></h2>
+                    </div>
+                {{ end }}
+
+                <!-- 
+                <div class="news-latest-item">
+                    <h2>21.10.2019 - <a href="#" title="TAPAAL 3.6.0">TAPAAL 3.6.0</a></h2>
+                </div>
+
+                <div class="news-latest-item">
+                    <h2>23.04.2019 - <a href="#" title="TAPAAL 3.5.1">TAPAAL 3.5.1</a></h2>
+                </div>
+
+                <div class="news-latest-item">
+                    <h2>23.04.2018 - <a href="#" title="TAPAAL 3.4.5">TAPAAL 3.4.5</a></h2>
+                </div>
+
+                <div class="news-latest-item">
+                    <h2>11.06.2017 - <a href="#" title="TAPAAL 3.3.1">TAPAAL 3.3.1</a></h2>
+                </div>
+                -->
+
+
+                <h2><a href="/news">More news</a></h2>
+            </div>
+        </div>
+
+        <div class="box">
+            <div style="font-size: 0.8em;">TAPAAL (Aalborg University) <br> (c) 2008-2019</div>
+        </div>
+
