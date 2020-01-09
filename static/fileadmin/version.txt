@@ -1,0 +1,7 @@
+3.6.0
+
+TAPAAL 3.6.0 is a release that introduces an automatic layout 
+generator for a net (available in Tools), an alignment of a net
+to the current grid size (available in View) and numerous bug fixes.
+
+This is a highly recommended update for all TAPAAL users.
