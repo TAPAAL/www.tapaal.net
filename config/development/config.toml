@@ -1,2 +1,7 @@
 baseURL = ""
 canonifyURLs = "true"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
