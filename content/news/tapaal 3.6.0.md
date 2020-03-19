@@ -1,5 +1,5 @@
 ---
-title: TAPAAL 3.6.0. Released 
+title: TAPAAL 3.6.0 
 date: 2019-10-21T15:14:02+01:00
 draft: false
 ---
