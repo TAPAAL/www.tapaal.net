@@ -5,6 +5,16 @@ draft: false
 ---
 
 # Changelog
+
+**3.6.1 (2020-03-18):**
+
+  * Highlighted constants in editor now blink
+  * Save and load paths are not remembered separately
+  * Fixed integration with UPPAAL verifyta engine
+  * Loading of large nets is now twice as fast
+  * On linux you can start tapaal with a net as argument, on mac the icon is now dropable.
+  * Numerous other bug fixes and improvements
+
 **3.6.0 (2019-10-21):** 
 
   * Automatic layout generator for a net (available in Tools)
