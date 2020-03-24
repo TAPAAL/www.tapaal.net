@@ -1,7 +1,8 @@
-3.6.0
+3.6.1
 
-TAPAAL 3.6.0 is a release that introduces an automatic layout 
-generator for a net (available in Tools), an alignment of a net
-to the current grid size (available in View) and numerous bug fixes.
+TAPAAL 3.6.1 is a release that contains numerous bug fixes and improvements,
+including constant blinking, separate save/load paths, faster loading of large 
+nets and possiblity to start tapaal with a file argument (Linux) and droppable
+Tapaal icon (Mac).
 
 This is a highly recommended update for all TAPAAL users.
