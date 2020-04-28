@@ -7,7 +7,7 @@ weight: 1
 ---
 # TAPAAL: Tool for Verification of Timed-Arc Petri Nets
 
-<img style="float:right;margin-left:1em" src="/tapaal-frontpageimage.png"/>
+<a href="/tapaal-frontpageimage.png" target="_blank"> <img style="float:right;margin-left:1em" src="/tapaal-frontpageimage.png" width="300"/></a>
 
 **TAPAAL** is a tool for
 
