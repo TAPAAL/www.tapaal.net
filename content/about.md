@@ -16,15 +16,14 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 ### **GUI and Translations**:
 
-*   Jacob Hjort Bundgaard
-*   Jakob Dyhr
+
 *   Peter G. Jensen
-*   Mads Johannsen
 *   [Kenneth Yrke Joergensen](http://yrke.dk)
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
-*   Mathias G. Soerensen
-*   Jakob H. Taankvist
 *   Peter H. Taankvist
+*   Lena Said
+*   Thomas Pedersen
+
 
 #### **Past contributors:**
 
@@ -41,6 +40,12 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Malte Neve-Graesboell
 *   Niels N. Samuelsen
 *   Mathias G. Soerensen
+*   Jacob Hjort Bundgaard
+*   Jakob Dyhr
+*   Mads Johannsen
+*   Mathias G. Soerensen
+*   Jakob H. Taankvist
+
 
 ### TAPAAL Continuous Engine (verifytapn):
 
