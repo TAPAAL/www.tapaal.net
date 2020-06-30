@@ -9,8 +9,8 @@ one silver medal in upper-bounds and bronz medal in reachability. The detailed r
 or in the press release https://www.cs.aau.dk/news-and-events/show/aau-tool-remains-among-the-best-model-checking-tools-in-the-world.cid474672.
 
 <center>
-![](/news/mmc20/mmc20-ctl.png)
-![](/news/mmc20/mmc20-GlobalProperties.png)
-![](/news/mmc20/mmc20-upperbounds.png)
-![](/news/mmc20/mmc20-reachability.png)
+![CTL Gold](/news/mmc20/gold-CTL-2020.png)
+![Global Properties Gold](/news/mmc20/gold-GlobalProperties-2020.png)
+![Upper Bounds Silver](/news/mmc20/silver-UpperBounds-2020.png)
+![Reachability bronze](/news/mmc20/bronze-Reachability-2020.png)
 </center>
