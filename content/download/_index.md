@@ -14,7 +14,7 @@ Download UPPAAL from [www.uppaal.org](http://www.uppaal.org) in the [download se
 		
 # Download
 
-***Before running TAPAAL make sure that [JRE 6.0](http://java.sun.com/javase/downloads/) or higher is installed on your system. Additionally, for Mac users we support only Mac OS X 10.9 and higher; on Mac OS X remember to allow applications downloaded from anywhere (in System Preferences and Security & Privacy tab or right-click on the application and choose "open").***
+***Before running TAPAAL make sure that [JRE 11.0](http://java.sun.com/javase/downloads/) or higher is installed on your system. Additionally, for Mac users we support only Mac OS X 10.9 and higher; on Mac OS X remember to allow applications downloaded from anywhere (in System Preferences and Security & Privacy tab or right-click on the application and choose "open").***
 
 Binarier for Windows/Linux/Mac OS X:
 
