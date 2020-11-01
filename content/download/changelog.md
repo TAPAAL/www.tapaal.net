@@ -7,6 +7,7 @@ draft: false
 # Changelog
 
 **3.7.1 (2020-11-01):**
+  
   * Bug fixes for the 3.7 series
   * Fix in the verifydtapn engine that provided wrong answers for the AF queries
   * New compilation of verifypn engine
