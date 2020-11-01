@@ -6,6 +6,18 @@ draft: false
 
 # Changelog
 
+**3.7.1 (2020-11-01):**
+  * Bug fixes for the 3.7 series
+  * Fix in the verifydtapn engine that provided wrong answers for the AF queries
+  * New compilation of verifypn engine
+
+**3.7.0 (2020-09-20):**
+
+  * Refactoring of a a large part of the GUI
+  * Support for drawing game nets together with engine suport
+  * Addition of lens allowing to project on timed/untimed nets and game/non-game nets
+  * Quick drawing of nets when pressing ctrl (in arc-drawing mode)
+
 **3.6.1 (2020-03-18):**
 
   * Highlighted constants in editor now blink
