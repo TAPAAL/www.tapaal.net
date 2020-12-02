@@ -30,7 +30,7 @@ To the best of our knowledge, TAPAAL is the first publicly available  and mainta
 
 ## Implementation details:
 
-The GUI of TAPAAL is based on an open source project called [PIPE](http://pipe2.sourceforge.net/) and extends PIPE version 2.5 with the extra features for modelling of timed-arc Petri nets. It is implemented in Java and JRE 6.0 or higher is required in order to run the GUI. It is released under the [Open Software Licence 3.0](http://www.opensource.org/licenses/osl-3.0.php).
+The GUI of TAPAAL is based on an open source project called [PIPE](http://pipe2.sourceforge.net/) and extends PIPE version 2.5 with the extra features for modelling of timed-arc Petri nets. It is implemented in Java. Java JRE 11.0 or higher is required in order to run the GUI. It is released under the [Open Software Licence 3.0](http://www.opensource.org/licenses/osl-3.0.php).
 
 ## Literature:
 
