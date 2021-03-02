@@ -30,7 +30,7 @@ Source download:
 
   * [Download TAPAAL GUI from Launchpad Source](https://code.launchpad.net/tapaal/)
   * [Download Continuous-Time TAPAAL Engine from Launchpad Source](https://code.launchpad.net/verifytapn)
-  * [Download Discrete-Time TAPAAL Engine from Lauchpad Source](https://github.com/tapaal/verifydtapn)
+  * [Download Discrete-Time TAPAAL Engine Source from Github](https://github.com/tapaal/verifydtapn)
   * [Download Untimed P/T TAPAAL Engine from Launchpad Source](https://code.launchpad.net/verifypn)
 
 Please report any bugs that you might discover to our [bug tracker](https://bugs.launchpad.net/tapaal).
