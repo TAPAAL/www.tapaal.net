@@ -65,28 +65,30 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 ### TAPAAL Untimed Engine (verifypn):
 
-*   Frederik M. Boenneland
-*   Jakob Dyhr
-*   Jonas Finnemann Jensen
-*   Peter G. Jensen
-*   Mads Johannsen
-*   Andreas H. Klostergaard
-*   Thomas Soendersoe Nielsen
-*   [Jiri Srba](http://www.cs.aau.dk/~srba)
-*   Lars Kaerlund Oestergaard
+*   Alexander Bilgram 
+*   Frederik Meyer Boenneland 
+*   Jakob Dyhr 
+*   Peter Fogh 
+*   Jonas Finnemann Jensen 
+*   Lasse Steen Jensen 
+*   Peter Gjøl Jensen 
+*   Tobias Skovgaard Jepsen 
+*   Mads Johannsen 
+*   Kenneth Yrke Jørgensen 
+*   Isabella Kaufmann 
+*   Andreas Hairing Klostergaard 
+*   Søren Moss Nielsen 
+*   Thomas Søndersø Nielsen 
+*   Samuel Pastva 
+*   Thomas Pedersen 
+*   Jiri Srba 
+*   Peter Haar Taankvist 
+*   Nikolaj Jensen Ulrik 
+*   Simon Mejlby Virenfeldt 
+*   Lars Kærlund Østergaard 
 
-**CTL untimed engine:**
-
-*   Peter Fogh
-*   Lasse Steen Jensen
-*   Tobias Skovgaard Jepsen
-*   Isabella Kaufmann
-*   Soeren Moss Nielsen
-*   Samuel Pastva  
 
 # Other Contributors
-
-
 
 We would like to thank the following people for their involvement in the TAPAAL project:
 
