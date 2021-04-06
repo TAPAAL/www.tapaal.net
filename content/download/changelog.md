@@ -6,6 +6,12 @@ draft: false
 
 # Changelog
 
+**3.8.0 (2021-04-06):**
+  
+  * Improved performance of untimed verifypn engine
+  * The GUI can now show reduced net in the editor
+  * Numberous bug fixes and smaller GUI improvements
+
 **3.7.1 (2020-11-01):**
   
   * Bug fixes for the 3.7 series
