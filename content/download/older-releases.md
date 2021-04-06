@@ -5,6 +5,11 @@ draft: false
 ---
 # Older releases
 
+  * [TAPAAL 3.7.1 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.7/tapaal-3.7.1-win64.zip)
+  * [TAPAAL 3.7.1 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.7/tapaal-3.7.1-linux64.zip)
+  * [TAPAAL 3.7.1 for Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.7/tapaal-3.7.1-mac64.dmg)
+  
+
 * [TAPAAL 3.7.0 for Windows Download (64 bit)](http://download.tapaal.net/fileadmin/download/tapaal-3.7/tapaal-3.7.0-win64.zip)
 * [TAPAAL 3.7.0 for Linux Download (64 bit)](http://download.tapaal.net/fileadmin/download/tapaal-3.7/tapaal-3.7.0-linux64.zip)
 * [TAPAAL 3.7.0 for Mac Download (64 bit)](http://download.tapaal.net/fileadmin/download/tapaal-3.7/tapaal-3.7.0-mac64.dmg)
