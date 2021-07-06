@@ -1,6 +1,6 @@
 ---
 title: TAPAAL won 2 gold medals at MCC'21
-date: 2021-07-06T09:52:00+01:00
+date: 2021-07-06T08:52:00+01:00
 draft: false
 ---
 
