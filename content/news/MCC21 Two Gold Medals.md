@@ -11,9 +11,9 @@ https://mcc.lip6.fr/results.php.
 
 
 <center>
-![CTL Gold](/news/mcc21/gold-CTL-2021.png)
-![LTL Gold](/news/mcc21/gold-LTL-2021.png)
-![Upper Bounds Silver](/news/mcc21/silver-UpperBounds-2021.png)
-![Reachability Silver](/news/mmc20/silver-Reachability-2021.png)
-![Global Properties Bronze](/news/mcc21/bronze-GlobalProperties-2021.png)
+![CTL Gold](/news/mcc21/gold-CTL-2021.png){:height="200px" width="200px"}
+![LTL Gold](/news/mcc21/gold-LTL-2021.png){:height="200px" width="200px"}
+![Upper Bounds Silver](/news/mcc21/silver-UpperBounds-2021.png){:height="200px" width="200px"}
+![Reachability Silver](/news/mmc20/silver-Reachability-2021.png){:height="200px" width="200px"}
+![Global Properties Bronze](/news/mcc21/bronze-GlobalProperties-2021.png){:height="200px" width="200px"}
 </center>
