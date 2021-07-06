@@ -13,7 +13,7 @@ https://mcc.lip6.fr/results.php.
 <center>
    <img src="/news/mcc21/gold-CTL-2021.png" width="150">
    <img src="/news/mcc21/gold-LTL-2021.png" width="150">
-   <img src="news/mcc21/silver-UpperBounds-2021.png" width="150">
-   <img src="/news/mmc20/silver-Reachability-2021.png" width="150">
+   <img src="/news/mcc21/silver-UpperBounds-2021.png" width="150">
+   <img src="/news/mcc21/silver-Reachability-2021.png" width="150">
    <img src="/news/mcc21/bronze-GlobalProperties-2021.png" width="150">
 </center>
