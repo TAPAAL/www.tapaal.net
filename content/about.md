@@ -19,10 +19,13 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 *   Peter G. Jensen
 *   [Kenneth Yrke Joergensen](http://yrke.dk)
+*   Kristian Morsing Pedersen
+*   Thomas Pedersen
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
+*   Lena Said
 *   Peter H. Taankvist
 *   Lena Said
-*   Thomas Pedersen
+
 
 
 #### **Past contributors:**
