@@ -12,6 +12,7 @@ The TAPAAL tool provides:
   * a graphical GUI for drawing P/T nets (with PNML import/export) and extended timed-arc Petri nets,
   * a simulator,
   * a timed workflow net analyzer,
+  * extension to game setting,
   * stand-alone efficient verifiers, and
   * a translation module using the UPPAAL engine at the back end.
 
