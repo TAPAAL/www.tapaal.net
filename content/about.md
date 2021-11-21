@@ -24,7 +24,6 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
 *   Lena Said
 *   Peter H. Taankvist
-*   Lena Said
 
 
 
