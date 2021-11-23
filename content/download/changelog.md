@@ -6,6 +6,25 @@ draft: false
 
 # Changelog
 
+**3.9.0 (2021-11-23):**
+  
+  * Numerous bug fixes
+  * Improved export to tikz
+  * Rearranged example nets with a few new nets
+  * New versions of all three verification engines
+  * 
+
+**3.9.0 (2021-10-18):**
+  
+  * New GUI support for the creation of LTL queries, and
+  * dnew LTL untimed engine as part of verifypn that also supports partial order reduction.
+ 
+
+**3.8.1 (2021-04-10):**
+  
+  * Further improved performance of untimed verifypn engine
+  * Numberous bug fixes 
+
 **3.8.0 (2021-04-06):**
   
   * Improved performance of untimed verifypn engine
