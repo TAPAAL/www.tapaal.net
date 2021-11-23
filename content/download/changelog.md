@@ -12,7 +12,7 @@ draft: false
   * Improved export to tikz
   * Rearranged example nets with a few new nets
   * New versions of all three verification engines
-  * 
+  
 
 **3.9.0 (2021-10-18):**
   
