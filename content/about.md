@@ -56,7 +56,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Morten Jacobsen
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
 
-### TAPAAL Discrete Engine (verifytapn):
+### TAPAAL Discrete Engine (verifydtapn):
 
 *   Mathias Andersen
 *   Peter G. Jensen
