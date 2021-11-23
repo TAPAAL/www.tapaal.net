@@ -29,9 +29,9 @@ Binarier for Windows/Linux/Mac OS X:
 Source download:
 
   * [Download TAPAAL GUI from Launchpad Source](https://code.launchpad.net/tapaal/)
-  * [Download Continuous-Time TAPAAL Engine from Launchpad Source](https://code.launchpad.net/verifytapn)
+  * [Download Continuous-Time TAPAAL Engine from Github](https://github.com/tapaal/verifytapn)
   * [Download Discrete-Time TAPAAL Engine Source from Github](https://github.com/tapaal/verifydtapn)
-  * [Download Untimed P/T TAPAAL Engine from Launchpad Source](https://code.launchpad.net/verifypn)
+  * [Download Untimed P/T TAPAAL Engine from Github](https://github.com/tapaal/verifypn)
 
 Please report any bugs that you might discover to our [bug tracker](https://bugs.launchpad.net/tapaal).
 
