@@ -6,7 +6,11 @@ draft: false
 
 # Changelog
 
-**3.9.0 (2021-11-23):**
+**3.9.2 (2022-01-31):**
+  
+  * Fixes problem with transition name highlighting, simulation and over/under-approximation
+
+**3.9.1 (2021-11-23):**
   
   * Numerous bug fixes
   * Improved export to tikz
