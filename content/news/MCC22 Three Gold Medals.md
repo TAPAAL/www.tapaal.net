@@ -15,5 +15,5 @@ https://mcc.lip6.fr/results.php.
    <img src="/news/mcc22/gold-LTL-2022.png" width="150">
    <img src="/news/mcc22/gold-Reachability-2022.png" width="150"> 
    <img src="/news/mcc22/silver-UpperBounds-2022.png" width="150">
-   <img src="/news/mcc22/bronze-GlobalProperties-2022.png" width="150">
+   <img src="/news/mcc22/silver-GlobalProperties-2022.png" width="150">
 </center>
