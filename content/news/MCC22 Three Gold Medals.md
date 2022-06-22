@@ -1,6 +1,6 @@
 ---
 title: TAPAAL won 3 gold medals at MCC'22
-date: 2022-07-06T08:52:00+01:00
+date: 2022-06-22T08:52:00+01:00
 draft: false
 ---
 
