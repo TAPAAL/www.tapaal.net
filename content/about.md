@@ -20,10 +20,9 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Peter G. Jensen
 *   [Kenneth Yrke Joergensen](http://yrke.dk)
 *   Kristian Morsing Pedersen
-*   Thomas Pedersen
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
 *   Lena Said
-*   Peter H. Taankvist
+
 
 
 
@@ -31,22 +30,23 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 *   Mathias Andersen
 *   Sine Viesmose Birch
+*   Jacob Hjort Bundgaard
 *   Joakim Byg
+*   Jakob Dyhr
 *   Louise Foshammer
 *   Lasse Jacobsen
 *   Morten Jacobsen
 *   Thomas Stig Jacobsen
 *   Jacob Jon Jensen
+*   Mads Johannsen
 *   Mikael H. Moeller
 *   Christoffer Moesgaard
 *   Malte Neve-Graesboell
 *   Niels N. Samuelsen
-*   Mathias G. Soerensen
-*   Jacob Hjort Bundgaard
-*   Jakob Dyhr
-*   Mads Johannsen
+*   Thomas Pedersen
 *   Mathias G. Soerensen
 *   Jakob H. Taankvist
+*   Peter H. Taankvist
 
 
 ### TAPAAL Continuous Engine (verifytapn):
@@ -69,11 +69,13 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 *   Alexander Bilgram 
 *   Frederik Meyer Boenneland 
+*   Jesper Adriaan van Diepen 
 *   Jakob Dyhr 
 *   Peter Fogh 
 *   Jonas Finnemann Jensen 
 *   Lasse Steen Jensen 
 *   Peter Gjøl Jensen 
+*   Nicolaj Østerby Jensen
 *   Tobias Skovgaard Jepsen 
 *   Mads Johannsen 
 *   Kenneth Yrke Jørgensen 
@@ -84,7 +86,9 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Samuel Pastva 
 *   Thomas Pedersen 
 *   Jiri Srba 
+*   Mathias Mehl Sørensen
 *   Peter Haar Taankvist 
+*   Rasmus Grønkjær Tollund 
 *   Nikolaj Jensen Ulrik 
 *   Simon Mejlby Virenfeldt 
 *   Lars Kærlund Østergaard 
