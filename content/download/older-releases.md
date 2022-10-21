@@ -5,6 +5,10 @@ draft: false
 ---
 # Older releases
 
+  * [TAPAAL 3.9.2 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.2-win64.zip)
+  * [TAPAAL 3.9.2 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.2-linux64.zip)
+  * [TAPAAL 3.9.2 for Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.2-mac64.dmg)
+
   * [TAPAAL 3.9.1 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.1-win64.zip)
   * [TAPAAL 3.9.1 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.1-linux64.zip)
   * [TAPAAL 3.9.1 for Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.1-mac64.dmg)
