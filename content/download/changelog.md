@@ -6,6 +6,13 @@ draft: false
 
 # Changelog
 
+
+**3.9.3 (2022-10-24):**
+   
+   * Numerous bug fixes including passing of inclusion places to the continuous engine, fixes to the query dialog, copying of elements with environmental transitions, remembering of the last open file location, trace generation for LTL queries.
+   * An updated untimed engine verifypn which fixes trace generation issues when structural reduction rules are applied.
+
+
 **3.9.2 (2022-01-31):**
   
   * Fixes problem with transition name highlighting, simulation and over/under-approximation
