@@ -72,6 +72,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Jesper Adriaan van Diepen 
 *   Jakob Dyhr 
 *   Peter Fogh 
+*   Emil Gybel Henriksen
 *   Jonas Finnemann Jensen 
 *   Lasse Steen Jensen 
 *   Peter Gjøl Jensen 
@@ -80,12 +81,17 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Mads Johannsen 
 *   Kenneth Yrke Jørgensen 
 *   Isabella Kaufmann 
+*   Alan Mozafar Khorsid
 *   Andreas Hairing Klostergaard 
+*   Esben Nielsen
 *   Søren Moss Nielsen 
 *   Thomas Søndersø Nielsen 
 *   Samuel Pastva 
 *   Thomas Pedersen 
+*   Theodor Risager
 *   Jiri Srba 
+*   Adam Moloney Stück
+*   Andreas Sebastian Sørensen
 *   Mathias Mehl Sørensen
 *   Peter Haar Taankvist 
 *   Rasmus Grønkjær Tollund 
