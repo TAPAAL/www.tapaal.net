@@ -6,6 +6,10 @@ draft: false
 
 # Changelog
 
+**3.9.4 (2023-01-24):**
+
+   * Fixing a bug for GUI reporting conclusive results for CTL and LTL model checking where there were not enough tokens.
+   * An updated untimed engine verifypn which fixes the reporting of statistics for CTL model checking.
 
 **3.9.3 (2022-10-24):**
    
