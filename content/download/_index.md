@@ -18,9 +18,9 @@ Download UPPAAL from [www.uppaal.org](http://www.uppaal.org) in the [download se
 
 Binarier for Windows/Linux/Mac OS X:
 
-  * [TAPAAL 3.9.3 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.3-win64.zip)
-  * [TAPAAL 3.9.3 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.3-linux64.zip)
-  * [TAPAAL 3.9.3 for Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.3-mac64.dmg)
+  * [TAPAAL 3.9.4 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.4-win64.zip)
+  * [TAPAAL 3.9.4 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.4-linux64.zip)
+  * [TAPAAL 3.9.4 for Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-3.9/tapaal-3.9.4-mac64.dmg)
   
 [**Older Releases**](older-releases/)
 
