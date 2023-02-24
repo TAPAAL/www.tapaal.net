@@ -6,6 +6,12 @@ draft: false
 
 # Changelog
 
+**3.9.5 (2023-02-24):**
+
+   * Fixing a bug with zooming when changing tabs
+   * Fixing issues with boundeness check and with running some of the example nets
+   * Updated verifytapn (continuous time) verification engine
+   
 **3.9.4 (2023-01-24):**
 
    * Fixing a bug for GUI reporting conclusive results for CTL and LTL model checking where there were not enough tokens.
