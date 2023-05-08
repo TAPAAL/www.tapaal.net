@@ -19,7 +19,6 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Malo Dautry
 *   Peter G. Jensen
 *   [Kenneth Yrke Joergensen](http://yrke.dk)
-*   Kristian Morsing Pedersen
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
 *   Lena Said
 
@@ -41,8 +40,9 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Mikael H. Moeller
 *   Christoffer Moesgaard
 *   Malte Neve-Graesboell
-*   Niels N. Samuelsen
+*   Kristian Morsing Pedersen
 *   Thomas Pedersen
+*   Niels N. Samuelsen
 *   Mathias G. Soerensen
 *   Jakob H. Taankvist
 *   Peter H. Taankvist
