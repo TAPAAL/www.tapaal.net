@@ -16,13 +16,12 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 ### **GUI and Translations**:
 
-
+*   Malo Dautry
 *   Peter G. Jensen
 *   [Kenneth Yrke Joergensen](http://yrke.dk)
 *   Kristian Morsing Pedersen
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
 *   Lena Said
-
 
 
 
@@ -69,6 +68,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 *   Alexander Bilgram 
 *   Frederik Meyer Boenneland 
+*   Malo Dautry
 *   Jesper Adriaan van Diepen 
 *   Jakob Dyhr 
 *   Peter Fogh 
