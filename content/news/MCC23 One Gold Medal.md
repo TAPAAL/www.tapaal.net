@@ -1,6 +1,6 @@
 ---
 title: TAPAAL wins a gold medal at MCC'23
-date: 2023-05-7T08:52:00+01:00
+date: 2023-05-4T08:52:00+01:00
 draft: false
 ---
 
