@@ -16,6 +16,7 @@ We currently do not have an up-to-date user manual and are in the progress of cr
 * [docs.tapaal.net](https://docs.tapaal.net) (Work-in-progress)
 
 Until the new site is ready you might also find these resources helpful: 
+
 * [old manual](https://github.com/TAPAAL/tapaalusermanual/tree/master/manuscript) (Pre TAPAAL v 2.0)
 
 ## Frequently Asked Questions (FAQ)
