@@ -19,12 +19,14 @@ Until the new site is ready you might also find these resources helpful:
 
 * [old manual](https://github.com/TAPAAL/tapaalusermanual/tree/master/manuscript) (Pre TAPAAL v 2.0)
 
-## Frequently Asked Questions (FAQ)
-You can find a list of FAQ on our launchpad page:
+## Ask Questions
+You can find a list of as on our github discussions page:
 
- * [TAPAAL FAQ](https://answers.launchpad.net/tapaal/+faqs)
+ * [TAPAAL Discussions](https://github.com/orgs/TAPAAL/discussions)
  
-If you have any other problems, please ask on [launchpad answers](https://answers.launchpad.net/tapaal) where both users and the development team will answer questions. You are also welcome to contact the development team directly on email: [tapaal(at)cs.aau.dk](mailto:tapaal@cs.aau.dk)
+If you have any problems, please look and/or ask on [TAPAAL Discussions](https://github.com/orgs/TAPAAL/discussions) where both users and the development team will answer questions. 
+
+You are also welcome to contact the development team directly on email: [tapaal(at)cs.aau.dk](mailto:tapaal@cs.aau.dk). Notice that we might not be able to answer every request but do read all e-mails.
 
 # Developer Documentation
 All relevant development documentation can be found at our [github wiki](https://github.com/TAPAAL/TAPAAL/wiki) 

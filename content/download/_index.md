@@ -9,9 +9,11 @@ weight: 4
 
 # Prior to Download
 
-TAPAAL provides a standalone editor, simulator and verifier (called verifytapn) of timed-arc Petri nets. Optionally, for running an automated translation to timed automata, the user should install the ***latest development version of UPPAAL***. 
-Download UPPAAL from [www.uppaal.org](http://www.uppaal.org) in the [download section](http://www.it.uu.se/research/group/darts/uppaal/download.shtml), and follow the instalation instructions from [www.uppaal.org](http://www.uppaal.org). You will need to locate the file ***verifyta*** that comes with the UPPAAL distribution and point TAPAAL to its location in the engine selection dialog from the Tools menu.
-		
+TAPAAL provides a standalone editor, simulator and verifier (called verifytapn) of timed-arc Petri nets. 
+
+***UPPAAL Integration***. 
+Optionally, for running an automated translation to timed automata, the user should install UPPAAL. You will need to procure a vesion of UPPAAL from [www.uppaal.org](http://www.uppaal.org). Get the latest version from [download section](https://uppaal.org/downloads/), and follow the instalation instructions. You will need to locate the file ***verifyta*** that comes with the UPPAAL distribution and point TAPAAL to its location in the engine selection dialog from the Tools menu.
+
 # Download
 
 ***Before running TAPAAL make sure that [JRE 11.0](https://www.azul.com/downloads/zulu-community/?version=java-11-lts&architecture=x86-64-bit&package=jre) or higher is installed on your system. Additionally, on Mac OS X remember to allow applications downloaded from anywhere (in System Preferences and Security & Privacy tab or right-click on the application and choose "open").***
@@ -28,12 +30,12 @@ Binarier for Windows/Linux/Mac OS X:
 
 Source download:
 
-  * [Download TAPAAL GUI from Launchpad Source](https://code.launchpad.net/tapaal/)
+  * Download TAPAAL GUI from [Github](https://github.com/TAPAAL/tapaal-gui)
   * [Download Continuous-Time TAPAAL Engine from Github](https://github.com/tapaal/verifytapn)
   * [Download Discrete-Time TAPAAL Engine Source from Github](https://github.com/tapaal/verifydtapn)
   * [Download Untimed P/T TAPAAL Engine from Github](https://github.com/tapaal/verifypn)
 
-Please report any bugs that you might discover to our [bug tracker](https://bugs.launchpad.net/tapaal).
+Please report any bugs that you might discover to our general [bug tracker](https://github.com/TAPAAL/TAPAAL/issues) or on the bug tracker for the individual project.
 
 # Changelog
 
