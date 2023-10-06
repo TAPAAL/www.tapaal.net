@@ -21,6 +21,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   [Kenneth Yrke Joergensen](http://yrke.dk)
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
 *   Lena Said
+*   Mikkel Tygesen
 
 
 
