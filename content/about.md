@@ -8,29 +8,25 @@ weight: 6
 
 # Contact Information
 
-
 To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapaal@cs.aau.dk)
-
 
 # Development Team
 
-### **GUI and Translations**:
+### Current Core Team
 
-*   Malo Dautry
-*   Peter G. Jensen
-*   [Kenneth Yrke Joergensen](http://yrke.dk)
+*   [Peter G. Jensen](https://vbn.aau.dk/da/persons/128861)
+*   [Kenneth Yrke Joergensen](https://yrke.dk)
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
-*   Lena Said
-*   Mikkel Tygesen
+*   [Mikkel Tygesen](https://github.com/mtygesen)
 
 
-
-#### **Past contributors:**
+#### **GUI and Translations**:
 
 *   Mathias Andersen
 *   Sine Viesmose Birch
 *   Jacob Hjort Bundgaard
 *   Joakim Byg
+*   Malo Dautry
 *   Jakob Dyhr
 *   Louise Foshammer
 *   Lasse Jacobsen
@@ -43,10 +39,13 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Malte Neve-Graesboell
 *   Kristian Morsing Pedersen
 *   Thomas Pedersen
+*   Lena Said
 *   Niels N. Samuelsen
 *   Mathias G. Soerensen
 *   Jakob H. Taankvist
 *   Peter H. Taankvist
+*   [Mikkel Tygesen](https://github.com/mtygesen)
+
 
 
 ### TAPAAL Continuous Engine (verifytapn):
