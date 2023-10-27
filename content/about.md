@@ -26,7 +26,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Sine Viesmose Birch
 *   Jacob Hjort Bundgaard
 *   Joakim Byg
-*   Malo Dautry
+*   [Malo Dautry](https://github.com/Malleek)
 *   Jakob Dyhr
 *   Louise Foshammer
 *   Lasse Jacobsen
@@ -39,7 +39,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Malte Neve-Graesboell
 *   Kristian Morsing Pedersen
 *   Thomas Pedersen
-*   Lena Said
+*   [Lena Said](https://github.com/LenaSaid)
 *   Niels N. Samuelsen
 *   Mathias G. Soerensen
 *   Jakob H. Taankvist
