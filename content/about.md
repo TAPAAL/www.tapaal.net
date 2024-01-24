@@ -107,18 +107,22 @@ We would like to thank the following people for their involvement in the TAPAAL 
 *   Gideon Blegmand
 *   Thomas Frandsen
 *   Michael Garde
+*   Henrik N. Ginnerup
 *   Mark Glavind
+*   Rasmus H. Hansen
 *   Jacob Buchreitz Harbo
 *   Arild Martin Moeller Haugstad
 *   Daniel Heidemann
 *   Martin Chmelik
 *   Martin Christensen
 *   Niels Christensen
+*   Sebastian Lassen
 *   Martin Leginus
 *   Jose Antonio Mateo
 *   Thomas Birch Mogensen
 *   Nichlas Korgaard Moeller
 *   Heidi Selmer Nielsen
+*   Daniel O. Nykjær
 *   Marius Pallisgaard Olsen
 *   Christian Hoegh Pedersen
 *   Morten Turn Pedersen
