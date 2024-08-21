@@ -14,6 +14,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 
 ### Current Core Team
 
+*   [Tanguy Dubois](https://github.com/tand00)
 *   [Peter G. Jensen](https://vbn.aau.dk/da/persons/128861)
 *   [Kenneth Yrke Joergensen](https://yrke.dk)
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
@@ -27,6 +28,7 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Jacob Hjort Bundgaard
 *   Joakim Byg
 *   [Malo Dautry](https://github.com/Malleek)
+*   [Tanguy Dubois](https://github.com/tand00)
 *   Jakob Dyhr
 *   Louise Foshammer
 *   Lasse Jacobsen
@@ -58,11 +60,13 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 ### TAPAAL Discrete Engine (verifydtapn):
 
 *   Mathias Andersen
+*   [Tanguy Dubois](https://github.com/tand00)
 *   Peter G. Jensen
 *   Heine G. Larsen
 *   [Jiri Srba](http://www.cs.aau.dk/~srba)
 *   Mathias G. Soerensen
 *   Jakob H. Taankvist
+*   [Mikkel Tygesen](https://github.com/mtygesen)
 
 ### TAPAAL Untimed Engine (verifypn):
 
