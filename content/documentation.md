@@ -8,7 +8,7 @@ weight: 5
 
 
 # User Documentation
-For new users starting with TAPAAL, we recommend to run TAPAAL and open the following net [intro-example.tapn](http://download.tapaal.net/fileadmin/download/resources/intro-example.tapn) (the net can be open from files - Examples Nets - intro-example) which will explain the main modeling features and verification possibilites. After that you are welcome to solve the following [TAPAAL exercises](http://download.tapaal.net/fileadmin/download/resources/tapaal-exercises.pdf).
+For new users starting with TAPAAL, we recommend to run TAPAAL and open the following net [intro-example.tapn](http://download.tapaal.net/tapaal/resources/intro-example.tapn) (the net can be open from files - Examples Nets - intro-example) which will explain the main modeling features and verification possibilites. After that you are welcome to solve the following [TAPAAL exercises](http://download.tapaal.net/tapaal/resources/tapaal-exercises.pdf).
 		
 ## User Manual
 We currently do not have an up-to-date user manual and are in the progress of creating a new documentation website. If you have the time and/or energy, we are happy to accept contributions to your new online documentation site. 
