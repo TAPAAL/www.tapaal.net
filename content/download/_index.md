@@ -16,7 +16,7 @@ Optionally, for running an automated translation to timed automata, the user sho
 
 # Download
 
-***Before running TAPAAL make sure that [JRE 11.0](https://www.azul.com/downloads/zulu-community/?version=java-11-lts&architecture=x86-64-bit&package=jre) or higher is installed on your system. Additionally, on Mac OS X remember to allow applications downloaded from anywhere (in System Preferences and Security & Privacy tab or right-click on the application and choose "open").***
+***Before running TAPAAL make sure that Java 11 or higher is installed on your system. You can use [Adoptium](https://adoptium.net) to obtain Java for your system. Additionally, on Mac OS X remember to allow applications downloaded from anywhere (in System Preferences and Security & Privacy tab or right-click on the application and choose "open"). On windows, it is important that during the installation you select "JavaSoft (Oracle) registry keys", otherwise TAPAAL may not find your Java and fail with "This application requires a Java Runtime Environment 11.0-21.0" even if Java is already installed. ***
 
 Binarier for Windows/Linux/Mac OS X:
 
