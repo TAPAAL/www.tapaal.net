@@ -71,12 +71,14 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 ### TAPAAL Untimed Engine (verifypn):
 
 *   Alexander Bilgram 
-*   Frederik Meyer Boenneland 
+*   Frederik Meyer Boenneland
+*   Emil Normann Brandt
 *   Malo Dautry
 *   Jesper Adriaan van Diepen 
 *   Jakob Dyhr 
 *   Peter Fogh 
 *   Emil Gybel Henriksen
+*   Jens Emil Fink Højriis
 *   Jonas Finnemann Jensen 
 *   Lasse Steen Jensen 
 *   Peter Gjøl Jensen 
