@@ -6,6 +6,16 @@ draft: false
 
 # Changelog
 
+**4.0.0 (2025-06-25):**
+
+  * Support for colored net editing, verification and unfolding/simulation
+  * Support for stochastic timed-arc Petri nets and statistical model checking (SMC)
+  * Support for verification of LTL and HyperLTL queries
+  * New search feature for locating places/transitions by their names, also in the query dialog
+  * Redisigned batch processing dialog and support for passing engine options directly in the command line
+  * Numerous GUI improvements (e.g. quick zoom) and bug fixes
+  * Improved performance and bug fixes in the verifypn and verifydtapn engines
+    
 **3.9.5 (2023-02-24):**
 
    * Fixing a bug with zooming when changing tabs
