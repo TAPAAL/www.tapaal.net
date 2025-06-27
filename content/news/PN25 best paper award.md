@@ -10,5 +10,5 @@ The paper can be obtained from https://link.springer.com/chapter/10.1007/978-3-0
 
 
 <center>
-   <img src="/news/mcc25/PN25-best-paper-award.png" width="250"> 
+   <img src="/news/mcc25/PN25-best-paper-award.jpg" width="250"> 
 </center>
