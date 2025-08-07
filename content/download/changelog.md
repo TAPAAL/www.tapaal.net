@@ -6,6 +6,10 @@ draft: false
 
 # Changelog
 
+**4.0.1 (2025-08-07):**
+
+  * Minor fixes in TAPAAL GUI (opening files, redu/undo, generation of place tranistion/names and fixes to version check)
+
 **4.0.0 (2025-06-25):**
 
   * Support for colored net editing, verification and unfolding/simulation
