@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Download on TAPAAL</title><link>/download/</link><description>Recent content in Download on TAPAAL</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2019 14:45:55 +0200</lastBuildDate><atom:link href="/download/index.xml" rel="self" type="application/rss+xml"/><item><title>Changelog</title><link>/download/changelog/</link><pubDate>Tue, 28 May 2019 14:45:55 +0200</pubDate><guid>/download/changelog/</guid><description>Changelog 4.0.1 (2025-08-07):
 Minor fixes in TAPAAL GUI (opening files, redu/undo, generation of place tranistion/names and fixes to version check) 4.0.0 (2025-06-25):
-Support for colored net editing, verification and unfolding/simulation Support for stochastic timed-arc Petri nets and statistical model checking (SMC) Support for verification of LTL and HyperLTL queries New search feature for locating places/transitions by their names, also in the query dialog Redisigned batch processing dialog and support for passing engine options directly in the command line Numerous GUI improvements (e.</description></item><item><title>Older releases</title><link>/download/older-releases/</link><pubDate>Tue, 28 May 2019 14:45:55 +0200</pubDate><guid>/download/older-releases/</guid><description>Older releases TAPAAL 4.0.0 for Windows Download (64 bit) TAPAAL 4.0.0 for Linux Download (64 bit) TAPAAL 4.0.0 for Intel Mac Download (64 bit) TAPAAL 4.0.0 for Arm Mac Download (64 bit)
-TAPAAL 3.9.5 for Windows Download (64 bit)
-TAPAAL 3.9.5 for Linux Download (64 bit)
-TAPAAL 3.9.5 for Mac Download (64 bit)
-TAPAAL 3.9.4 for Windows Download (64 bit)
-TAPAAL 3.9.4 for Linux Download (64 bit)</description></item></channel></rss>
+Support for colored net editing, verification and unfolding/simulation Support for stochastic timed-arc Petri nets and statistical model checking (SMC) Support for verification of LTL and HyperLTL queries New search feature for locating places/transitions by their names, also in the query dialog Redisigned batch processing dialog and support for passing engine options directly in the command line Numerous GUI improvements (e.</description></item><item><title>Older releases</title><link>/download/older-releases/</link><pubDate>Tue, 28 May 2019 14:45:55 +0200</pubDate><guid>/download/older-releases/</guid><description>Older releases TAPAAL 4.0.1 for Windows Download (64 bit) TAPAAL 4.0.1 for Linux Download (64 bit) TAPAAL 4.0.1 for Intel Mac Download (64 bit) TAPAAL 4.0.1 for Arm Mac Download (64 bit)
+TAPAAL 4.0.0 for Windows Download (64 bit)
+TAPAAL 4.0.0 for Linux Download (64 bit)
+TAPAAL 4.0.0 for Intel Mac Download (64 bit)
+TAPAAL 4.0.0 for Arm Mac Download (64 bit)
+TAPAAL 3.</description></item></channel></rss>
