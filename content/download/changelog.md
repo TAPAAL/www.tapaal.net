@@ -6,6 +6,11 @@ draft: false
 
 # Changelog
 
+
+**4.0.2 (2025-09-11):**
+
+  * Minor fixes in TAPAAL GUI and the engines verifypn and verifytapn.
+
 **4.0.1 (2025-08-07):**
 
   * Minor fixes in TAPAAL GUI (opening files, redu/undo, generation of place tranistion/names and fixes to version check)
