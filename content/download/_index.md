@@ -20,10 +20,10 @@ Optionally, for running an automated translation to timed automata, the user sho
 
 Binarier for Windows/Linux/Mac OS X:
 
-  * [TAPAAL 4.0.2 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-win64.zip)
-  * [TAPAAL 4.0.2 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-linux64.zip)
-  * [TAPAAL 4.0.2 for Intel Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-mac-intel64.dmg)
-  * [TAPAAL 4.0.2 for Arm Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-mac-arm64.dmg)
+  * [TAPAAL 4.0.3 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.3-win64.zip)
+  * [TAPAAL 4.0.3 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.3-linux64.zip)
+  * [TAPAAL 4.0.3 for Intel Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.3-mac-intel64.dmg)
+  * [TAPAAL 4.0.3 for Arm Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.3-mac-arm64.dmg)
   
 [**Older Releases**](older-releases/)
 
