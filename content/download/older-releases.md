@@ -5,6 +5,11 @@ draft: false
 ---
 # Older releases
 
+  * [TAPAAL 4.0.2 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-win64.zip)
+  * [TAPAAL 4.0.2 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-linux64.zip)
+  * [TAPAAL 4.0.2 for Intel Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-mac-intel64.dmg)
+  * [TAPAAL 4.0.2 for Arm Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.2-mac-arm64.dmg)
+
   * [TAPAAL 4.0.1 for Windows Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.1-win64.zip)
   * [TAPAAL 4.0.1 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.1-linux64.zip)
   * [TAPAAL 4.0.1 for Intel Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.1-mac-intel64.dmg)
