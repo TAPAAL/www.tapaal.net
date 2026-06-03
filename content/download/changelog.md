@@ -6,6 +6,17 @@ draft: false
 
 # Changelog
 
+**4.0.4 (2026-06-03):**
+
+  * Bug fixes in the SMC engine verifydtapn and added seeding and custom distributions.
+  * Numerous GUI fixes, visualization of density functions for custom distributions, improved tikz export.
+  * Addition of constant ranges for parametric verification.
+  
+**4.0.3 (2026-02-01):**
+
+  * Fix to the precision issues in the SMC engine
+  * Added explicit simulation of CPN nets in the GUI
+  * Fixes numerous small issues the GUI and the untimed and discrete time engines.
 
 **4.0.2 (2025-09-11):**
 
