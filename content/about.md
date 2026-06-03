@@ -100,7 +100,8 @@ To contact the development team, send an email to [tapaal@cs.aau.dk](mailto:tapa
 *   Andreas Sebastian Sørensen
 *   Mathias Mehl Sørensen
 *   Peter Haar Taankvist 
-*   Rasmus Grønkjær Tollund 
+*   Rasmus Grønkjær Tollund
+*   [Mikkel Tygesen](https://github.com/mtygesen)
 *   Nikolaj Jensen Ulrik 
 *   Simon Mejlby Virenfeldt 
 *   Lars Kærlund Østergaard 
