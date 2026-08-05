@@ -9,10 +9,10 @@ Moreover, we also received the 100% confidence badge. We thank to all developers
 https://mcc.lip6.fr/results.php.
 
 <center>
-   <img src="/news/mcc25/gold-Reachability-2026.png" width="150"> 
-   <img src="/news/mcc25/gold-CTL-2026.png" width="150">
-   <img src="/news/mcc25/gold-LTL-2026.png" width="150">
-   <img src="/news/mcc25/silver-UpperBounds-2026.png" width="150">
-   <img src="/news/mcc25/silver-GlobalProperties-2026.png" width="150">
-   <img src="/news/mcc25/conf100-Tapaal-2026.png" width="150"> 
+   <img src="/news/mcc26/gold-Reachability-2026.png" width="150"> 
+   <img src="/news/mcc26/gold-CTL-2026.png" width="150">
+   <img src="/news/mcc26/gold-LTL-2026.png" width="150">
+   <img src="/news/mcc26/silver-UpperBounds-2026.png" width="150">
+   <img src="/news/mcc26/silver-GlobalProperties-2026.png" width="150">
+   <img src="/news/mcc26/conf100-Tapaal-2026.png" width="150"> 
 </center>
