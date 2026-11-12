@@ -24,7 +24,9 @@ Binarier for Windows/Linux/Mac OS X:
   * [TAPAAL 4.0.4 for Linux Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.4-linux64.zip)
   * [TAPAAL 4.0.4 for Intel Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.4-mac-intel64.dmg)
   * [TAPAAL 4.0.4 for Arm Mac Download (64 bit)](https://download.tapaal.net/tapaal/tapaal-4.0/tapaal-4.0.4-mac-arm64.dmg)
-  
+
+Obtain the latest beta-release from [here](https://github.com/TAPAAL/tapaal-gui/releases/tag/latest-build).
+
 [**Older Releases**](older-releases/)
 
 -----------------------
